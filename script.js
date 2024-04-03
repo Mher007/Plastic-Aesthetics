@@ -13,3 +13,9 @@ window.addEventListener('load', () => {
     const btn = document.querySelector('.btn');
     btn.classList.add('show');
 });
+
+
+    // git status
+    // git add .
+    // git commit -m "1"
+    // git push
